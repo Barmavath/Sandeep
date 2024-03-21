@@ -1,0 +1,7 @@
+Run the following command for printer driver installation.
+
+sudo rpm -ivh --force --nodeps hplip-3.21.12-RHEL7-x86_64.rpm
+
+Note:
+1. To Add a New Printer Login as Root user(username: root, password: root123)
+
